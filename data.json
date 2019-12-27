@@ -1,0 +1,88 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "La nueva panaderia",
+      "rating": 5.0,
+      "coor_x": 1.0,
+      "coor_y": 1.0,
+      "reviews": 14,
+      "cuisine": "french",
+      "address": "Vicente Lopez 1600, C1001, Buenos Aires",
+      "average_ticket": 550.99,
+      "takes_yums": true,
+      "best_discount": 50.0,
+      "image_url": "https://images.unsplash.com/photo-1426260193283-c4daed7c2024?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1955&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Mi Buenos Aires Parrilla",
+      "rating": 2.5,
+      "coor_x": -5.0,
+      "coor_y": 2.0,
+      "reviews": 941,
+      "cuisine": "parrilla",
+      "address": "Bolivar 1234, C1459, Ciudad de Buenos Aires",
+      "average_ticket": 1500.00,
+      "takes_yums": false,
+      "best_discount": 25.0,
+      "image_url": "https://images.unsplash.com/photo-1426260193283-c4daed7c2024?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1955&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Sabores propios",
+      "rating": 1.5,
+      "coor_x": 1.0,
+      "coor_y": 5.0,
+      "reviews": 192,
+      "cuisine": "italian",
+      "address": "Sucre 6234, C1652, Ciudad de Buenos Aires",
+      "average_ticket": 999.95,
+      "takes_yums": true,
+      "best_discount": 60.0,
+      "image_url": "https://images.unsplash.com/photo-1535799695145-f3849086ee3d?ixlib=rb-1.2.1&auto=format&fit=crop&w=958&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Café del mar",
+      "rating": 4.5,
+      "coor_x": -2.0,
+      "coor_y": 3.0,
+      "reviews": 694,
+      "cuisine": "international",
+      "address": "Avenida Francisco Beiro 1231, C1419, Ciudad de Buenos Aires",
+      "average_ticket": 600.00,
+      "takes_yums": false,
+      "best_discount": 25.0,
+      "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Tony & Company",
+      "rating": 3.5,
+      "coor_x": 4.0,
+      "coor_y": -5.0,
+      "reviews": 1445,
+      "cuisine": "italian",
+      "address": "Vuelta de Obligado 1035, C1234, Buenos Aires",
+      "average_ticket": 500.00,
+      "takes_yums": false,
+      "best_discount": 50.0,
+      "image_url": "https://images.unsplash.com/photo-1531973819741-e27a5ae2cc7b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Green life",
+      "rating": 5.0,
+      "coor_x": -5.0,
+      "coor_y": -4.0,
+      "reviews": 14,
+      "cuisine": "vegan",
+      "address": "Av. Libertador San Martín 1491, C1103, Buenos Aires",
+      "average_ticket": 650.99,
+      "takes_yums": true,
+      "best_discount": 15.0,
+      "image_url": "https://images.unsplash.com/photo-1522683280249-025c6e03d311?ixlib=rb-1.2.1&auto=format&fit=crop&w=934&q=80"
+    }
+  ]
+}

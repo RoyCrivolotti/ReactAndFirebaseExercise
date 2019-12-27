@@ -1,0 +1,108 @@
+.login-box {
+    height: 100%;
+    margin-top: 15vh;
+}
+
+.max-width {
+    width: 100%;
+}
+
+textarea {
+    overflow-y: scroll;
+    max-height: 8vh;
+    resize: none;
+}
+
+input[type=text]:not(.broswer-default):focus:not([readonly]),
+input[type=email]:not(.broswer-default):focus:not([readonly]),
+input[type=passwod]:not(.broswer-default):focus:not([readonly]),
+input[type=number]:not(.broswer-default):focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+    border-color: black;
+    box-shadow: none;
+}
+
+.cuisine-type {
+    font-variant: small-caps;
+    font-size: medium;
+}
+
+.color-on-hover:hover {
+    transition: 0.1s;
+    color: rgb(158, 158, 158);
+}
+
+.social-button {
+    height: 40px;
+    border-width: 0;
+    background: white;
+    color: #737373;
+    border-radius: 5px;
+    white-space: nowrap;
+    box-shadow: 1px 1px 0px 1px rgba(0, 0, 0, 0.05);
+    transition-property: background-color, box-shadow;
+    transition-duration: 150ms;
+    transition-timing-function: ease-in-out;
+    padding: 0;
+}
+
+.social-button:focus {
+    background-color: #FFFFFF;
+}
+
+.social-button:active {
+    background-color: #F2F2F2;
+}
+
+.social-button__icon {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 8px 0 8px 8px;
+    width: 18px;
+    height: 18px;
+    box-sizing: border-box;
+}
+
+.social-button__icon--plus {
+    width: 27px;
+}
+
+.social-button__text {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 24px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Roboto', arial, sans-serif;
+}
+
+.github-logo {
+    margin-left: -5px;
+}
+
+.filter-by {
+    color: #9e9e9e;
+    position: absolute;
+    top: 0;
+    font-size: 1rem;
+    cursor: text;
+    transition: transform .2s ease-out, color .2s ease-out;
+    transform-origin: 0% 100%;
+    text-align: initial;
+    transform: translateY(12px);
+    left: .75rem;
+}
+
+.button-gap {
+    margin: 5px !important;
+}
+
+.navbar-title {
+    font-size: 1.8rem;
+}
+
+@media only screen and (max-device-width: 600px) and (-webkit-max-device-pixel-ratio: 4) and (orientation: portrait) {
+    .navbar-title {
+        font-size: 1em;
+    }
+}

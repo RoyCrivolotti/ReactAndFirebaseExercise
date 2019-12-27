@@ -1,0 +1,15 @@
+node_modules
+
+# firebase config files
+.firebaserc
+database.rules.json
+
+# debugging log files
+*.log
+
+# environment variables
+.env
+.env.development
+
+# the build folder since the code contains environment variables
+/build
