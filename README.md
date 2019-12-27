@@ -33,7 +33,7 @@ Right now, I'm using Firebase as a storage solution alone.
 
 ## Testing locally
 
-*First of all*, I'm not committing the API key for the time being, so anyone wanting to use this would have to create a Firebase project, use the data.json file I'm commiting to populate a Real Time DB, and then create the proper `.env` and `.env.development` files. This also implies setting up the rules for your Firebase project and whatnot.
+**First of all**, I'm not committing the API key for the time being, so anyone wanting to use this would have to create a Firebase project, use the data.json file I'm commiting to populate a Real Time DB, and then create the proper `.env` and `.env.development` files. This also implies setting up the rules for your Firebase project and whatnot.
 
 Run `npm i` from the project's root folder to install the dependencies.
 
