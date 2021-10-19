@@ -1,6 +1,6 @@
 # ReactAndFirebaseExercise
 
-This is a demo application I'm using to check out React among some other things like Firebase and authentication. Originally, it was part of an interview process.
+This is a demo application I'm using to check out React among some other things like Firebase and authentication. Just trying out a tech stack..
 
 This application consists of a REST-API consumed by a React app, with the backend written in Node.
 
