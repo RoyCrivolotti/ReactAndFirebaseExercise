@@ -54,7 +54,7 @@
         "eslint-plugin-jsx-a11y": "^6.2.3",
         "eslint-plugin-react": "^7.17.0",
         "nodemon": "^2.0.20",
-        "react-scripts": "^3.3.0"
+        "react-scripts": "^5.0.1"
     },
     "browserslist": {
         "production": [
